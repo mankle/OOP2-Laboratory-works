@@ -1,0 +1,43 @@
+﻿body {
+    background-color: #519b94
+}
+
+.panel{
+    background-color: #519b94;
+    align-items: center;
+    text-align: center;
+
+}
+
+h1{
+    font-size: 20px;
+}
+
+.button:hover{
+    animation-play-state: running;
+    border-color: #ff0000;
+}
+
+.button{
+    background-color: #aaa;
+    border: none;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    width: 200px;
+
+    animation-play-state: paused;
+
+    animation-name: example;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes example {
+    0%   {background-color: red;}
+    33%  {background-color: green;}
+    66%  {background-color: blue;}
+    100% {background-color: red;}
+}

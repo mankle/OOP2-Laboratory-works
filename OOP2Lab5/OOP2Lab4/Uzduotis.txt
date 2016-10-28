@@ -1,0 +1,14 @@
+﻿LDD_15. Agentai. 
+
+Pirmoje failo eilutėje nurodyta įvedimo data.
+Tolesnėse eilutėse tokia informacija apie leidinius:
+ prenumeratoriaus pavardė, adresas, laikotarpio pradžia (nurodyta sveiku skaičiumi 1..12),
+ laikotarpio ilgis, leidinių kiekis, agento kodas. 
+
+Kitame tekstiniame faile yra informacija apie agentus:
+ kodas, pavardė, vardas. 
+
+Suskaičiuoti kiekvienam agentui nurodyto mėnesio (įvedama klaviatūra) krūvį.
+
+Atspausdinti nurodytam agentui (įvedama klaviatūra) nešiojamos prenumeratos nurodyto mėnesio sąrašus.
+Sąrašai turi būti sutvarkyti pagal adresus ir pavardes.
