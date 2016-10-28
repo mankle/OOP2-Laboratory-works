@@ -1,0 +1,21 @@
+Uzduotis: 
+LDD_15.  Agentai. 	
+Pirmoje failo eilutėje nurodyta įvedimo data. 
+Tolesnėse eilutėse tokia informacija apie leidinius:
+  prenumeratoriaus pavardė, adresas, laikotarpio pradžia (nurodyta sveiku skaičiumi 1..12), 
+  laikotarpio ilgis, leidinių kiekis, agento kodas. 
+Kitame tekstiniame faile yra informacija apie agentus: 
+  kodas, pavardė, vardas. 
+Suskaičiuoti kiekvienam agentui nurodyto mėnesio (įvedama klaviatūra) krūvį. 
+Atspausdinti nurodytam agentui (įvedama klaviatūra) nešiojamos prenumeratos nurodyto mėnesio sąrašus. 
+Sąrašai turi būti sutvarkyti pagal adresus ir pavardes.
+
+
+
+Programos vartotojo vadovas:
+Noredami pamatyti visų agentų krūvį tam tikro mėnesio metu 
+pirmame teksto lauke nurodykite kurio menesio duomenis noretumete pamatyti,
+mėnesis nurodomas skaiciumi nuo 1 iki 12. 
+Ivedus mėnesį ir paspauskite šalia esantį mygtuką,
+tada antrame teksto lauke atsiras visa informacija. 
+Norėdami pamatyti tam tikro agento kruvį nurodyto menesio metu įveskite agento kodą į trečią teksto lauką ir paspauskite mygtuką.
